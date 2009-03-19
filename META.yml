@@ -20,6 +20,5 @@ requires:
   Class::Accessor::Lvalue::Fast: 0
   Filter::Util::Call: 0
   HTML::Parser: 0
-  Term::ANSIColor: 0
   perl: 5.8.1
-version: 0.05
+version: 0.06
